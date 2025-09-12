@@ -1,8 +1,5 @@
 # 🏬 Sales Store Dashboard – Power BI Analytics
 
-🔗 **[View Power BI Dashboard](#)**  
-*(Add your Power BI Service link here if you’ve published it online.)*
-
 ---
 
 ## 📊 Project Overview
